@@ -1,0 +1,3 @@
+2026-06-02 10:55:48,706 [INFO] Scheduler started
+2026-06-02 10:55:48,713 [INFO] Application startup complete.
+2026-06-02 10:55:48,714 [INFO] Uvicorn running on http://0.0.0.0:61752 (Press CTRL+C to quit)

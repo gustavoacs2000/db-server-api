@@ -1,0 +1,87 @@
+{
+  "pid": 11696,
+  "port": 61752,
+  "start_time": "20260602105548",
+  "ips": [
+    {
+      "ip": "26.217.39.208",
+      "interface": "Radmin VPN",
+      "method": "psutil"
+    },
+    {
+      "ip": "169.254.124.16",
+      "interface": "Ethernet",
+      "method": "psutil"
+    },
+    {
+      "ip": "169.254.123.184",
+      "interface": "Ethernet 3",
+      "method": "psutil"
+    },
+    {
+      "ip": "192.168.56.1",
+      "interface": "Ethernet 2",
+      "method": "psutil"
+    },
+    {
+      "ip": "169.254.74.149",
+      "interface": "OpenVPN TAP-Windows6",
+      "method": "psutil"
+    },
+    {
+      "ip": "169.254.190.5",
+      "interface": "Conexão Local* 1",
+      "method": "psutil"
+    },
+    {
+      "ip": "169.254.167.195",
+      "interface": "Conexão Local* 2",
+      "method": "psutil"
+    },
+    {
+      "ip": "192.168.15.6",
+      "interface": "Wi-Fi",
+      "method": "psutil"
+    },
+    {
+      "ip": "169.254.77.213",
+      "interface": "Conexão de Rede Bluetooth",
+      "method": "psutil"
+    },
+    {
+      "ip": "172.31.48.1",
+      "interface": "vEthernet (Default Switch)",
+      "method": "psutil"
+    },
+    {
+      "ip": "172.31.128.1",
+      "interface": "vEthernet (WSL (Hyper-V firewall))",
+      "method": "psutil"
+    },
+    {
+      "ip": "169.254.30.153",
+      "interface": "OpenVPN Data Channel Offload",
+      "method": "psutil"
+    },
+    {
+      "ip": "127.0.0.1",
+      "interface": "loopback",
+      "method": "localhost"
+    }
+  ],
+  "urls": [
+    "http://26.217.39.208:61752",
+    "http://169.254.124.16:61752",
+    "http://169.254.123.184:61752",
+    "http://192.168.56.1:61752",
+    "http://169.254.74.149:61752",
+    "http://169.254.190.5:61752",
+    "http://169.254.167.195:61752",
+    "http://192.168.15.6:61752",
+    "http://169.254.77.213:61752",
+    "http://172.31.48.1:61752",
+    "http://172.31.128.1:61752",
+    "http://169.254.30.153:61752",
+    "http://127.0.0.1:61752"
+  ]
+}
